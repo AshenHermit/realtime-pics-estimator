@@ -1,0 +1,3 @@
+data/*
+!data/validation.png
+__pycache__/
