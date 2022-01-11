@@ -1,1 +1,0 @@
-https://api.rule34.xxx/index.php?page=dapi&s=post&q=index&json=1&pid={2}&limit={1000}&tags={'furball'}
